@@ -8,3 +8,5 @@ For this Python project, I undertook a web scraping initiative focused on the Wi
 2. **Web Scraping Implementation**: Utilized Python libraries, such as BeautifulSoup and requests, to scrape tables containing information about the largest companies.
 3. **Data Extraction**: Extracted relevant data from the tables, including company names, revenue figures, and other pertinent details.
 4. **CSV Creation**: Compiled the extracted data into a CSV (Comma-Separated Values) file, ensuring easy accessibility and compatibility with various data analysis tools.
+
+Special thanks to Alex the Analyst for his mentorship and guidance.
